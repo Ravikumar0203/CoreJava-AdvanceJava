@@ -422,51 +422,6 @@ Core_java_NIT
 * **Eclipse IDE**
 * **Git & GitHub**
 
----
-
-# ▶️ How to Run
-
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/anand24raj/Core_Java-and-Advance_java.git
-```
-
-## 2. Open in Eclipse
-
-Import the repository as an existing Eclipse Java project.
-
-## 3. Select a Program
-
-Navigate to:
-
-```text
-src/com/nit/
-```
-
-or:
-
-```text
-src/com/adv_java/
-```
-
-## 4. Run the Java Class
-
-Find a class containing the `main()` method.
-
-Then:
-
-```text
-Right Click
-    ↓
-Run As
-    ↓
-Java Application
-```
-
-> **Note:** JDBC programs may require database configuration, JDBC drivers, and valid database credentials before they can be executed.
-
----
 
 # 🎯 Learning Path
 
@@ -542,18 +497,6 @@ If you would like to contribute:
 4. Commit your changes
 5. Push the branch
 6. Open a Pull Request
-
----
-
-# 👨‍💻 Author
-
-**Anand Raj**
-
-MCA | Java Developer
-
-### GitHub
-
-https://github.com/anand24raj
 
 ---
 
